@@ -10,8 +10,6 @@ import flet_fastapi
 
 
 
-
-
 async def main(page: ft.Page):
     page.horizontal_alignment= "center"
     #Youtube Function
